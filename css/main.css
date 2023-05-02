@@ -50,6 +50,9 @@
     text-align: center;
     border-radius: 5px;
 }
+.input-boxes input[type="button"].button-selected{
+    background: #26c0ab;
+}
 .results {
     background: var(--very-dark-cyan);
     border-radius: 15px;
