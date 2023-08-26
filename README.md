@@ -1,4 +1,4 @@
-# Frontend Mentor - Tip calculator app - [Demo](https://github.com/DavidSousa03/Calculafora-de-gorjeta/settings/pages)
+# Frontend Mentor - Tip calculator app - [Demo](https://davidsousa03.github.io/Calculafora-de-gorjeta/)
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
